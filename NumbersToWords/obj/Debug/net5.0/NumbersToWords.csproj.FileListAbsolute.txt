@@ -1,0 +1,12 @@
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/NumbersToWords.csproj.AssemblyReference.cache
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/NumbersToWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/NumbersToWords.AssemblyInfoInputs.cache
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/NumbersToWords.AssemblyInfo.cs
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/NumbersToWords.csproj.CoreCompileInputs.cache
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/bin/Debug/net5.0/NumbersToWords.deps.json
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/bin/Debug/net5.0/NumbersToWords.dll
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/bin/Debug/net5.0/ref/NumbersToWords.dll
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/bin/Debug/net5.0/NumbersToWords.pdb
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/NumbersToWords.dll
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/ref/NumbersToWords.dll
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/NumbersToWords.pdb
