@@ -10,3 +10,6 @@
 /Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/NumbersToWords.dll
 /Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/ref/NumbersToWords.dll
 /Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/NumbersToWords.pdb
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/bin/Debug/net5.0/NumbersToWords.runtimeconfig.json
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/bin/Debug/net5.0/NumbersToWords.runtimeconfig.dev.json
+/Users/poyu/Desktop/epicodusproject/c#/NumbersToWords.Solution/NumbersToWords/obj/Debug/net5.0/NumbersToWords.genruntimeconfig.cache

@@ -30,6 +30,11 @@ namespace NumbersToWords.Tests
     {
       Assert.AreEqual("one hundred fifteen", NumbersLogic.hundreds(115));
     }
+    [TestMethod]
+    public void CheckForHundreds_ReturnFullThing_String()
+    {
+      Assert.AreEqual("one hundred fifteen thousand", NumbersLogic.bigNumbers(115000));
+    }
 
 
 
